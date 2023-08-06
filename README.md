@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Smitt Thanki - [Github](https://github.com/Sunny670)
-Vivianne Nyakundi - [Github](https://github.com/Vivi-anne)
+- Smitt Thanki - [Github](https://github.com/Sunny670)
+- Vivianne Nyakundi - [Github](https://github.com/Vivi-anne)
 
 Second part of Airbnb: Joann Vuong
 ## License
